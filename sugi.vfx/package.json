@@ -1,0 +1,13 @@
+{
+  "name": "sugi.cc.vfx",
+  "version": "0.1.0",
+  "displayName": "sugi.vfx",
+  "description": "vfx package",
+  "unity": "2020.2",
+  "author": {
+    "name": "sugi-cho",
+    "email": "git@sugi.cc",
+    "url": "https://sugi.cc"
+  },
+  "type": "template"
+}

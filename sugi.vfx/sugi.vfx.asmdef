@@ -1,0 +1,17 @@
+{
+    "name": "sugi.vfx",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d04eb9c554ad44ceab303cecf0c0cf82",
+        "GUID:f06555f75b070af458a003d92f9efb00"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
