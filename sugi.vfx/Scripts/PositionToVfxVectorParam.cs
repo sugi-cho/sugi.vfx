@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.VFX;
 
 namespace sugi.cc.vfx
@@ -28,7 +26,6 @@ namespace sugi.cc.vfx
                 targetVfx.SetVector3(param, transform.position);
             else if (space == Space.Self)
                 targetVfx.SetVector3(param, transform.localPosition);
-            Debug.Log("set pos");
         }
     }
 }
